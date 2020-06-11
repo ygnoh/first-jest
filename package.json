@@ -1,0 +1,24 @@
+{
+  "name": "first-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygnoh/first-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygnoh/first-jest/issues"
+  },
+  "homepage": "https://github.com/ygnoh/first-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "jest": "^26.0.1"
+  }
+}
